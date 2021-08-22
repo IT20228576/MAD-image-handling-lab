@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Image_handling_lab</string>
+    <string name="pic">Pic</string>
+    <string name="take_a_photo">take a photo</string>
+</resources>
